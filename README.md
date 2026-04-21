@@ -76,7 +76,6 @@ The Philips SPK7858 is a great wireless mouse — but on macOS, the extra button
 | Mouse | Connection | Status |
 |-------|-----------|--------|
 | Philips SPK7858 | Bluetooth LE | Fully Supported |
-| Philips SPK7858 | USB Receiver (2.4 GHz) | Fully Supported |
 
 ---
 
