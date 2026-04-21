@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="../../releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=apple" alt="Download"></a>
-  <a href="https://github.com/sponsors/foaltycoder"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor"></a>
+  <a href="https://github.com/sponsors/Fukulu"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor"></a>
 </p>
 
 <p align="center">
@@ -173,7 +173,7 @@ Having issues or have a feature request?
 MouseKit is **free and open to download**. If it saved you from frustration with your Philips mouse on Mac, consider sponsoring the project to support future development:
 
 <p align="center">
-  <a href="https://github.com/sponsors/foaltycoder">
+  <a href="https://github.com/sponsors/Fukulu">
     <img src="https://img.shields.io/badge/Sponsor_this_project-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor">
   </a>
 </p>
