@@ -49,14 +49,14 @@ The Philips SPK7858 is a great wireless mouse — but on macOS, the extra button
 ## Features
 
 ### Button Remapping
-- Remap **Middle Click**, **Forward**, and **Back** buttons to any action
+- Remap **Middle Click**, **Forward**, **Back**, **Left Scroll**, **Right Scroll** buttons to any action
 - Assign system actions: Mission Control, Screenshot, Copy, Paste, Volume, Brightness, Media Controls
 - Create **custom keyboard shortcuts** with a built-in virtual keyboard (any key + Cmd/Ctrl/Shift/Opt modifiers)
-- **3 switchable profiles** — quickly swap configurations for different workflows
+- **Auto App Detection** — automatically switches button profiles based on the active application
 
 ### Battery Monitoring
 - Real-time battery level displayed in the menu bar popover
-- Automatic **BLE & USB detection** — works whether your mouse is connected via Bluetooth or the USB receiver
+- Automatic **BLE** — works with your mouse is connected via Bluetooth
 - **Low battery notifications** — get alerted before your mouse dies
 
 ### Scroll Reversal (Natural Scroll)
@@ -65,8 +65,11 @@ The Philips SPK7858 is a great wireless mouse — but on macOS, the extra button
 
 ### Additional Features
 - **Launch at Login** — start automatically when you boot your Mac
+- **Auto App Detection** — profiles can switch automatically when you change apps
 - **15 languages** supported: English, Turkish, German, French, Spanish, Portuguese, Italian, Dutch, Russian, Japanese, Korean, Chinese, Arabic, Polish, Swedish
 - **Lightweight menu bar app** — no dock icon, no clutter, always accessible
+- **Help section** with quick links to User Guide, Support, Privacy Policy, and Terms of Use
+- **Smart permission handling** — detects Accessibility permission on first launch and activates button remapping instantly without requiring a restart
 - **Privacy-first** — no data collection, no analytics, no internet connection required
 
 ---
@@ -183,5 +186,5 @@ Your support helps keep the app maintained, updated, and free for everyone.
 
 <p align="center">
   Made with care for Philips SPK7858 users on macOS.<br>
-  <sub>&copy; 2025 FoaltyCoder. All rights reserved.</sub>
+  <sub>&copy; 2026 FoaltyCoder. All rights reserved.</sub>
 </p>
