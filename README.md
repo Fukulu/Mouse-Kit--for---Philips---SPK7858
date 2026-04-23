@@ -50,7 +50,7 @@ The Philips SPK7858 is a great wireless mouse — but on macOS, the extra button
     </td>
     <td align="center" width="350">
       <img src="screenshots/MAC_4.png" width="100%" alt="15 Languages Support"><br>
-      <sub><b>15 Languages Support</b></sub>
+      <sub><b>15 Languages</b></sub>
     </td>
   </tr>
 </table>
