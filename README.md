@@ -33,11 +33,13 @@ The Philips SPK7858 is a great wireless mouse — but on macOS, the extra button
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot-main.png" width="280" alt="Main Menu Bar Popover">
+  <img src="screenshots/MAC_1.png" width="340" alt="Main Menu Bar Popover">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/screenshot-buttons.png" width="340" alt="Button Configuration">
+  <img src="screenshots/MAC_2.png" width="340" alt="Button Configuration">
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/screenshot-keyboard.png" width="340" alt="Virtual Keyboard Shortcut Assignment">
+  <img src="screenshots/MAC_3.png" width="340" alt="Auto App Dedection">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/MAC_4.png" width="340" alt="15 Languages Support">
 </p>
 
 <p align="center">
