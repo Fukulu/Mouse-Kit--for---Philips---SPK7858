@@ -32,19 +32,28 @@ The Philips SPK7858 is a great wireless mouse — but on macOS, the extra button
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/MAC_1.png" width="340" alt="Main Menu Bar Popover">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/MAC_2.png" width="340" alt="Button Configuration">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/MAC_3.png" width="340" alt="Auto App Dedection">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/MAC_4.png" width="340" alt="15 Languages Support">
-</p>
-
-<p align="center">
-  <sub>Main panel &bull; Button remapping &bull; Virtual keyboard for custom shortcuts</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="350">
+      <img src="screenshots/MAC_1.png" width="100%" alt="Main Menu Bar Popover"><br>
+      <sub><b>Main Menu Bar Popover</b></sub>
+    </td>
+    <td align="center" width="350">
+      <img src="screenshots/MAC_2.png" width="100%" alt="Button Configuration"><br>
+      <sub><b>Button Configuration</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="350">
+      <img src="screenshots/MAC_3.png" width="100%" alt="Auto App Dedection"><br>
+      <sub><b>Auto App Dedection</b></sub>
+    </td>
+    <td align="center" width="350">
+      <img src="screenshots/MAC_4.png" width="100%" alt="15 Languages Support"><br>
+      <sub><b>15 Languages Support</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
